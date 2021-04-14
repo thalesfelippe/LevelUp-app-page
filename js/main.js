@@ -1,7 +1,9 @@
-// $(window).on("load",function(){
-//     // Preloader
-//     $(".preloader").fadeOut("slow");
-// });
+$(window).on("load",function(){
+    // Preloader
+    setTimeout(function(){
+    $(".preloader").hide();
+    }, 1000);
+});
 
 $(document).ready(function(){
 
