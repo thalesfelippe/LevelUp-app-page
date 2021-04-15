@@ -17,6 +17,9 @@
   --black-100: #f7f7f7;
   --black-alpha-100: rgba(0, 0, 00.05);
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: "Poppins", sans-serif;
