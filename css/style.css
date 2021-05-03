@@ -398,7 +398,12 @@ ul {
   justify-content: center;
   opacity: 0;
   visibility: hidden;
-  transform: all 0.5s ease;
+  transform: all 1.5s ease;
+}
+
+.video-popup.open {
+  opacity: 1;
+  visibility: visible;
 }
 
 .video-popup-inner {
