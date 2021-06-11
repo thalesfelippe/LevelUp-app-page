@@ -32,7 +32,7 @@
 
 ```bash
   # Clone the project
-  $ git clone https://github.com/thalesfelippe/SpotifyClone
+  $ git clone https://github.com/thalesfelippe/LevelUp-app-page
 ```
 ---
 
