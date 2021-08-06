@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img 
-    src="https://raw.githubusercontent.com/thalesfelippe/LevelUp-app-page/main/img/favicon.png"
+    src="https://raw.githubusercontent.com/thalesfelippe/LevelUp-app-page/main/img/favicon.png" width="150"
   />
   <p>Level Up APP</p>
 </h1>
