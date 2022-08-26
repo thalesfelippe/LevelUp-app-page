@@ -1,17 +1,10 @@
 
 <h1 align="center">
-  <img 
-    src="https://raw.githubusercontent.com/thalesfelippe/LevelUp-app-page/main/img/favicon.png" width="150"
-  />
   <p>Level Up APP</p>
 </h1>
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/ibf9qKLXrlsFuNtoQe/giphy.gif"
-  />
-  <img src="https://media.giphy.com/media/uEALfNcD2oL3UwCdKZ/giphy.gif"
-  />
-  <img src="https://media.giphy.com/media/zEwYRJ1CcxBkjXShsm/giphy.gif"
+<img src="https://i.imgur.com/ChoIZ9Q.png"
   />
 </h1>
 
